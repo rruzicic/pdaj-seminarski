@@ -4,6 +4,7 @@
 
 Tema rada je poređenje dva HTTP servera implementiranih koristeći dva različita programska jezika, u ovom slučaju Java i Rust. Pre svega ćemo posmatrati različite principe i paradigme vezane za oba programska jezika nakon čega ćemo se pozabaviti karakteristikama i performansama oba pristupa.
 
+Dodatni materijali za ovaj seminarski rad mogu se pronaći na sledećem linku: https://github.com/rruzicic/pdaj-seminarski
 
 ## Pregled tehnologija
 
